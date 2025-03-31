@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "suppliers_by_location_report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9470ea84-4581-90f0-4855-cab29fb35ea6"
+  }
+}
